@@ -81,7 +81,7 @@ This repository contains Leetcode solving problems and thoughts implemented by C
 
 387 First Unique Character in a String
 
-441 Arranging Coins
+441 Arranging Coins (Updated)
 
 461 Hamming Distance
 
