@@ -17,7 +17,7 @@ This repository contains Leetcode solving problems and thoughts implemented by C
 
 36 Valid Sudoku
 
-53 Maximum Subarray
+53 Maximum Subarray (Updated)
 
 62 Unique Paths
 
