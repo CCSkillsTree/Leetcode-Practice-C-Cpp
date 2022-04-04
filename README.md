@@ -17,7 +17,7 @@ This repository contains Leetcode solving problems and thoughts implemented by C
 
 36 Valid Sudoku
 
-53 Maximum Subarray (Updated)
+53 Maximum Subarray (Updated) (MTK)
 
 62 Unique Paths
 
@@ -69,6 +69,8 @@ This repository contains Leetcode solving problems and thoughts implemented by C
 
 326 Power of Three
 
+328 Odd Even Linked List (Updated) (MTK)
+
 342 Power of Four
 
 344 Reverse String
@@ -91,7 +93,7 @@ This repository contains Leetcode solving problems and thoughts implemented by C
 
 537 Complex Number Multiplication
 
-566 Reshape the Matrix
+566 Reshape the Matrix (MTK)
 
 617 Merge Two Binary Trees
 
