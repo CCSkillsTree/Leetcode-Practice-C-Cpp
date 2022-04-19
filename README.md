@@ -11,7 +11,7 @@ This repository contains Leetcode solving problems and thoughts implemented by C
 
 20 Valid Parentheses (Updated)
 
-21 Merge Two Sorted Lists (Updated)
+21 Merge Two Sorted Lists (Updated) (RTK)
 
 35 Search Insert Position (Updated)
 
